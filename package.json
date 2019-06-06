@@ -1,6 +1,6 @@
 {
   "name": "asteria-eos",
-  "version": "0.5.0",
+  "version": "0.5.4",
   "description": "Eos is a facade that exposes business objects of the Helios server.",
   "main": "dist/com/asteria/eos.index.js",
   "types": "types/eos.d.ts",
