@@ -12,4 +12,5 @@ export { HeliosProcessDescriptor } from './eos/business/HeliosProcessDescriptor'
 export { HeliosTemplate } from './eos/business/HeliosTemplate';
 
 //--> com/asteria/eos/util
+export { HeliosData } from './eos/util/HeliosData';
 export { HeliosFileStats } from './eos/util/HeliosFileStats';

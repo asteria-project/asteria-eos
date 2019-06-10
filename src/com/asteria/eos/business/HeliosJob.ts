@@ -28,5 +28,5 @@ export interface HeliosJob {
     /**
      * A timestamp that represents the creation date for this job.
      */
-    date: number;
+    birthtime: number;
 }
