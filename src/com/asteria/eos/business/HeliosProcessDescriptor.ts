@@ -1,5 +1,5 @@
 /**
- * The <code>HeliosProcessDescriptor</code> interface represents the description of an Asteria process in helios.
+ * The <code>HeliosProcessDescriptor</code> interface represents the description of an Asteria process in Helios.
  */
 export interface HeliosProcessDescriptor {
 

@@ -6,6 +6,7 @@
  */
 
 //--> com/asteria/eos/business
+export { HeliosCsvPreview } from './eos/business/HeliosCsvPreview';
 export { HeliosJob } from './eos/business/HeliosJob';
 export { HeliosJobStatus } from './eos/business/HeliosJobStatus';
 export { HeliosProcessDescriptor } from './eos/business/HeliosProcessDescriptor';
