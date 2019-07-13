@@ -1,5 +1,5 @@
 /**
- * The <code>HeliosData</code> interface represents the data structur returend by the REST API of the Helios server.
+ * The <code>HeliosData</code> interface represents the data structure returned by the REST API of the Helios server.
  */
 export interface HeliosData<T> {
 

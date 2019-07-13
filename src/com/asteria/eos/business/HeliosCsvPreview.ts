@@ -1,4 +1,4 @@
-import { HeliosFileStats } from '../util/HeliosFileStats';
+import { HeliosFileStats } from '../util/file/HeliosFileStats';
 
 /**
  * The <code>HeliosCsvPreview</code> interface represents the preview of a CSV file served by an Helios server
