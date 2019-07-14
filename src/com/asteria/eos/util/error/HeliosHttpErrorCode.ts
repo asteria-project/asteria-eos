@@ -20,6 +20,11 @@ export enum HeliosHttpErrorCode {
     ERR_RESOURCE_NOT_FOUND = 'RESOURCE_NOT_FOUND',
     
     /**
+     * Means that the path to the specified resource is not valid.
+     */
+    ERR_RESOURCE_PATH_INVALID = 'RESOURCE_PATH_INVALID',
+
+    /**
      * Means that the target resource is a directory while a file is expected.
      */
     ERR_RESOURCE_IS_A_DIRECTORY = 'RESOURCE_IS_A_DIRECTORY',
