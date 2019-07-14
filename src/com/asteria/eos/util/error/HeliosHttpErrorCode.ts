@@ -20,9 +20,9 @@ export enum HeliosHttpErrorCode {
     ERR_RESOURCE_NOT_FOUND = 'RESOURCE_NOT_FOUND',
     
     /**
-     * Means that the current target is a directory while a file is expected.
+     * Means that the target resource is a directory while a file is expected.
      */
-    ERR_TARGET_IS_A_DIRECTORY = 'TARGET_IS_A_DIRECTORY',
+    ERR_RESOURCE_IS_A_DIRECTORY = 'RESOURCE_IS_A_DIRECTORY',
 
     /**
      * Means that the content type of an HTTP request is missing.
