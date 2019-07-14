@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var HeliosHttpErrorCode;
 (function (HeliosHttpErrorCode) {
     HeliosHttpErrorCode["ERR_INTERNAL_PROCESS_FAILURE"] = "INTERNAL_PROCESS_FAILURE";
+    HeliosHttpErrorCode["ERR_ASTERIA_PROCESS_FAILURE"] = "ASTERIA_PROCESS_FAILURE";
     HeliosHttpErrorCode["ERR_DIRECTORY_LISTING_FAILED"] = "DIRECTORY_LISTING_FAILED";
     HeliosHttpErrorCode["ERR_RESOURCE_NOT_FOUND"] = "RESOURCE_NOT_FOUND";
     HeliosHttpErrorCode["ERR_RESOURCE_PATH_INVALID"] = "RESOURCE_PATH_INVALID";

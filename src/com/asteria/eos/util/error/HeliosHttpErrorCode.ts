@@ -10,6 +10,11 @@ export enum HeliosHttpErrorCode {
     ERR_INTERNAL_PROCESS_FAILURE = 'INTERNAL_PROCESS_FAILURE',
 
     /**
+     * Means that the server failed to execute the current process due to an Asteria, or Hyperion, error.
+     */
+    ERR_ASTERIA_PROCESS_FAILURE = 'ASTERIA_PROCESS_FAILURE',
+
+    /**
      * Means that the server failed to retrieve the listing of a directory.
      */
     ERR_DIRECTORY_LISTING_FAILED = 'DIRECTORY_LISTING_FAILED',
