@@ -7,4 +7,6 @@
 
 declare module "asteria-eos" {
 
+import { Application } from "jsax-rs";
+
 /*PLACEHOLDER*/}

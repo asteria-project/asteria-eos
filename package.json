@@ -13,7 +13,9 @@
     "url": "https://github.com/asteria-eos/asteria-eos/issues"
   },
   "homepage": "https://github.com/asteria-eos/asteria-eos#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jsax-rs": "0.0.0"
+  },
   "devDependencies": {
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",

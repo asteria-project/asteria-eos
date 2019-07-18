@@ -1,3 +1,5 @@
+import { Application } from 'jsax-rs';
+
 /**
  * The <code>HeliosData</code> interface represents the data structure returned by the REST API of the Helios server.
  */
@@ -17,4 +19,9 @@ export interface HeliosData<T> {
      * The ID of the server that has created this object.
      */
     serverId: string;
+
+    /**
+     * The HATEOAS application state.
+     */
+    application: Application;
 }
